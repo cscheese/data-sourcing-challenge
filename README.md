@@ -1,10 +1,10 @@
-Module 6 Challenge
+#Module 6 Challenge
 Carolyn Scheese - 8/26/2024
 
-Background of homework. This challenge involved extracting data from two different sources: The New York Times API and The Movie Database, then I merged and cleaned the data. 
+# Background of homework. This challenge involved extracting data from two different sources: The New York Times API and The Movie Database, then I merged and cleaned the data. 
 The output was a cvs file. 
 
-Challenges, Resources and Help: 
+# Challenges, Resources and Help: 
 Setting up the API. I had difficulty with this step. AskBCS helped me resolve this error and After Class Office hours also helped with this. 
 I struggled with the first section - NYT, attending after class office hours, reviewing past class videos, examing class exercises and using ChatGPT and Xpert to generate code. 
 All of these things helped, but the most helpful was the recent office hours with Bill and Sean and the final help came from my son who does data management for a finacial firm. He helped identify an error in the 
